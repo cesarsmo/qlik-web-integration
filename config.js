@@ -9,7 +9,7 @@ const tenantUrl = url.searchParams.get('tenant') || 'https://grupoitg-nordica.us
 const webIntegrationId = url.searchParams.get('wiid') || 'zQLeIH8-uf87QC9JyLRsdrdZpvhVlkli';
 
 // should be Helpdesk Management resourceId:
-const appId = url.searchParams.get('app') || '999759c8-696c-4009-9546-0e658a9c6fdc';
+const appId = url.searchParams.get('app') || '08e09f10-fb84-49a7-b52d-5e1bc7daff73';
 
 const tenant = new URL(tenantUrl);
 
